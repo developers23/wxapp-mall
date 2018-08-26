@@ -22,6 +22,8 @@
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/1.jpg) 
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/2.jpg) 
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/3.jpg) 
+
+
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/4.jpg) 
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/5.jpg) 
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/6.jpg) 
